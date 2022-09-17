@@ -9,3 +9,6 @@ out/
 *.class
 *.idea
 .idea
+/target/*
+/.idea/*
+*.iml
