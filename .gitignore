@@ -1,0 +1,10 @@
+.idea/
+target/
+.setting/
+01-STUDY/
+.project
+bin/
+lib/
+out/
+*.class
+*.idea
