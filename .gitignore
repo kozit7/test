@@ -8,3 +8,4 @@ lib/
 out/
 *.class
 *.idea
+.idea
